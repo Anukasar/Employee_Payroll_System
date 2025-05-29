@@ -10,4 +10,5 @@ Addition,removal and displaying functionality.
   - Java
   - Object-Oriented-Programming
   - Console-based Output.
-    
+##Sample Output Screenshot
+    (Output/output.jpeg)
