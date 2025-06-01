@@ -2,12 +2,12 @@
 
 A basic **Payroll Management System** built using **Java** and designed with **Object-Oriented Programming Principles**. This console-based application supports management of both **Full-time** and **Part-time** employees, and includes features like adding, removing, and displaying employee records.
 
-## 🧠 Object-Oriented Programming Concepts Used
+## Object-Oriented Programming Concepts Used
 - **Inheritance**
 - **Encapsulation**
 - **Abstraction**
 
-## 💻 Technologies Used
+## Technologies Used
 - **Java**
 - **Console-based Output**
 - **Object-Oriented Programming**
@@ -17,6 +17,6 @@ A basic **Payroll Management System** built using **Java** and designed with **O
 - Display All Employee Details
 - Remove Employee by ID
 
-## 📸 Sample Output Screenshot
+## Sample Output Screenshot
 ![Sample Output](Output/output.jpeg)
 
